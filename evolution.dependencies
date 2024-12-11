@@ -1,0 +1,13 @@
+[
+  {
+    "repository"  : "device_oneplus_sm8250-common",
+    "branch"      : "bka",
+    "target_path" : "device/oneplus/sm8250-common"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "TheMuppets/proprietary_vendor_oneplus_instantnoodle",
+    "branch"      : "lineage-23.0",
+    "target_path" : "vendor/oneplus/instantnoodle"
+  }
+]
